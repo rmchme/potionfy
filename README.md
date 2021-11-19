@@ -1,4 +1,2 @@
 :e
-i
-whatever
-
+ok insert now
