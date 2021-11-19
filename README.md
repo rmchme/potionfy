@@ -1,2 +1,9 @@
 :e
-ok insert now
+ok insert no
+
+
+
+
+
+ok yaya !
+w
